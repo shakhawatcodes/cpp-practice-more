@@ -1,0 +1,4 @@
+Item: Noodles Quantity: 2 Price: 60
+Total: 60/-
+Item: Noodles Quantity: 12 Price: 360
+Total: 360/-
